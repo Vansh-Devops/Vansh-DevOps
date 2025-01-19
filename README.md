@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## This is a github profile for Devops.
-## https://miro.medium.com/v2/resize:fit:828/format:webp/1*9GoxPl5pdMivlKtdQ_L-dQ.gif
+## ![Devops gif](https://github.com/user-attachments/assets/8c3295f2-bf6e-4a0b-9114-29f14d9b8281)
 
 <!--
 **Vansh-Devops/Vansh-DevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
